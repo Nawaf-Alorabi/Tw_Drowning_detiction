@@ -58,7 +58,7 @@ The app displays:
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - CUDA-compatible GPU (recommended for faster inference)
 
 ### Clone the Repository
@@ -229,14 +229,14 @@ numpy>=1.18.5
 
 **Tuwaiq Academy — April 2025**
 
-| Name | Role |
-|------|------|
-| Nawaf | Project Lead |
-| Faisal | Developer |
-| Saad | Developer |
-| Muadh | Developer |
-| Yasser | Developer |
-| Abdulrahman | Developer |
+| Team Names |
+|------|
+| Nawaf |
+| Faisal |
+| Saad |
+| Muadh | 
+| Yasser | 
+| Abdulrahman | 
 
 ---
 
