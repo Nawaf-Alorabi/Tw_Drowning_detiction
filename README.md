@@ -41,6 +41,8 @@ The system can process images in real-time and is deployable via a user-friendly
 ## 🎯 Demo
 
 Upload an image to the Streamlit app and get instant detection results:
+🔗 **Try the live app here:** https://hat-detection.streamlit.app/
+
 
 | Original Image | Detection Result |
 |:--------------:|:----------------:|
